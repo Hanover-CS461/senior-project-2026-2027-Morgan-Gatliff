@@ -1,4 +1,3 @@
----
 # Live Football Display
 
 ## Project Description and Main Features
