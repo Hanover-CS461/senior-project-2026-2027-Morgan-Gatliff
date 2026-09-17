@@ -1,2 +1,21 @@
+title: Live Football Display
+description: A live, always-on NFL scoreboard for the desktop — built to keep the Sunday ritual alive.
+
+lsi: false
+safe: false
+source: .
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+baseurl: /senior-project-2026-2027-Morgan-Gatliff
+
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme
+
+remote_theme: pages-themes/midnight@v0.2.0

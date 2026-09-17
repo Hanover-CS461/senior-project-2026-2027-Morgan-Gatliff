@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 # Live Football Display
 
