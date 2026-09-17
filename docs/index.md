@@ -1,3 +1,3 @@
 ---
 ---
-[Prject Proposal](./proposal.md)
+[Project Proposal](./proposal/proposal.md)
