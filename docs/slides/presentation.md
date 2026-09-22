@@ -5,7 +5,7 @@ size: 16:9
 paginate: true
 ---
 
-# Live NFL Football Display
+# Live Scoreboard Display
 ### A senior project presentation
 
 ---
@@ -33,7 +33,7 @@ It gives a more personal relationship between the user and their favorite sport.
 ---
 
 # What It Does
-### Scoreboard • Field position • Win % • Top stats • Ticker
+### Scoreboard, Field position, Win %, Top stats, Ticker
 
 - **Scoreboard** — the featured game's score, quarter, and game clock
 - **Field graphic** — where the ball is, with down and distance
@@ -87,7 +87,7 @@ The display keeps itself useful with zero interaction.
 ---
 
 # Similar Solutions
-### ESPN • NFL App • Yahoo • theScore — and what's missing
+### ESPN, NFL App, Yahoo, The Score — and what's missing
 
 - ESPN site — a firehose of menus, ads, and every game
 - NFL app — subscription hub: streaming, paid analytics
