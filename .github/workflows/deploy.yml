@@ -26,6 +26,9 @@ jobs:
         run: bundle exec jekyll build
         working-directory: docs
 
+      - name:
+        run: npx @marp-team/marp-cli@latest docs/slides/presentation.md -o docs/_site/slides/presentation.html
+        
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
