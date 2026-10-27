@@ -5,4 +5,4 @@ layout: default
 
 [View the presentation](./slides/presentation.html)
 
-[View Tutorial](//docs/tutorial/)
+[ESPN API Tutorial](./tutorial/index.html)
