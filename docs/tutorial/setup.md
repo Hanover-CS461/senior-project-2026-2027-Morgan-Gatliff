@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 1. Setup
 
 In this section you'll set up a project folder, learn how to **read an ESPN endpoint

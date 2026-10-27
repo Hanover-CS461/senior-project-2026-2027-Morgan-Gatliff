@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 4. Past Weeks
 
 The live scoreboard is convenient, but you will also want to look **backwards** — at

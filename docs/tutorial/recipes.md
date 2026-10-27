@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 5. Recipes
 
 This section collects four practical patterns you'll reuse throughout the project.

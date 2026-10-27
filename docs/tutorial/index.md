@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # ESPN Public API: Pull Live NFL Data with Python
 
 Welcome! This tutorial teaches you how to pull **live NFL data** — scores, game

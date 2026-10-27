@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 6. Exercises
 
 Try these on your own before moving to the summary. Each one pushes slightly past

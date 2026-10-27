@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 2. League Calendar
 
 The calendar endpoints describe the **shape of the NFL season**: which days have

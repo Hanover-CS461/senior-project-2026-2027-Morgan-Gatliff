@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 7. Summary
 
 Congratulations — you've gone from a single line of JSON to a working, **typed data
@@ -97,8 +100,7 @@ separate: `from_raw` is the only place that knows ESPN's field names.
 - [Python `json` module](https://docs.python.org/3/library/json.html)
 - [Python `dataclasses`](https://docs.python.org/3/library/dataclasses.html)
 - [Python `datetime` module](https://docs.python.org/3/library/datetime.html)
-- [MkDocs Material (how this site is built)](https://squidfunk.github.io/mkdocs-material/)
-- [GitHub Pages documentation](https://docs.github.com/en/pages)
+
 
 ---
 

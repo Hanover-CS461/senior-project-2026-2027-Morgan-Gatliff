@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 3. Live Scoreboard
 
 This is the heart of the project: the endpoint that returns **every NFL game**
